@@ -1,0 +1,26 @@
+Package: vf
+Title: Read Voter Files
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Christopher T.",
+           family = "Kenny",
+           role = c("aut", "cre"),
+           email = "christopherkenny@fas.harvard.edu",
+           comment = c(ORCID = "0000-0002-9386-6860"))
+Description: States in the United States make full voter registries available as public information.
+    This enables researchers to use voter files with clean, consistent formats.
+    This package is focused on official voter files, rather than commercially available alternatives.
+    Not all states are supported.
+    The states which have readily available and free voter files are supported.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    cli,
+    dplyr,
+    fs,
+    lubridate,
+    purrr,
+    readr,
+    tidyr
