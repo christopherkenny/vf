@@ -3,6 +3,8 @@
 
 # vf
 
+This package is experimental. It may change without warning.
+
 <!-- badges: start -->
 <!-- badges: end -->
 
@@ -21,7 +23,9 @@ devtools::install_github('christopherkenny/vf')
 | State | Contributors      | Last Updated | Input Function |
 |-------|-------------------|--------------|----------------|
 | FL    | @christopherkenny | 2022-08-24   | `vf_read_fl()` |
-|       |                   |              |                |
+| NY    | @christopherkenny | 2022-08-24   | `vf_read_ny()` |
 |       |                   |              |                |
 
 ## Example
+
+TODO once a few more states are supported
