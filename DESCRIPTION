@@ -24,3 +24,5 @@ Imports:
     purrr,
     readr,
     tidyr
+URL: https://github.com/christopherkenny/vf
+BugReports: https://github.com/christopherkenny/vf/issues
