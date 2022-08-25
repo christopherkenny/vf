@@ -4,7 +4,7 @@
 \alias{vf_read_fl}
 \title{Read FL voter file}
 \usage{
-vf_read_fl(path_detail, path_history)
+vf_read_fl(path_detail, path_history, widen_history = TRUE)
 }
 \arguments{
 \item{path_detail}{path to FL detail file or directory}
@@ -18,5 +18,5 @@ tibble
 Read FL voter file
 }
 \examples{
-#TODO
+# TODO
 }

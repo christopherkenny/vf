@@ -1,6 +1,6 @@
 #' Read NY voter file
 #'
-#' @param path path to FL detail file or directory
+#' @param path path to NY voter file
 #' @param ... additional arguments passed to `readr::read_csv()`
 #'
 #' @return tibble
