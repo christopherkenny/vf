@@ -36,7 +36,7 @@ devtools::install_github('christopherkenny/vf')
 | State | Contributors      | Last Updated | Input Function |
 |-------|-------------------|--------------|----------------|
 | FL    | @christopherkenny | 2022-08-24   | `vf_read_fl()` |
-| NY    | @christopherkenny | 2022-08-24   | `vf_read_ny()` |
+| NY    | @christopherkenny | 2022-08-25   | `vf_read_ny()` |
 |       |                   |              |                |
 
 ## Example
