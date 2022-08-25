@@ -185,3 +185,13 @@ ny_county_codes <- tibble::tribble(
   'Wyoming', '61',
   'Yates', '62'
 )
+
+ny_voting_methods <- c(
+  'P' = 'Election Day Poll Site',
+  'A' = 'Absentee',
+  'F' = 'Election Day Affidavit',
+  'O' = 'Election Day by Other Method',
+  'E' = 'Early Voting at Poll Site (Early voting method introduced in General Election 2019)',
+  'D' = 'Early Voting by Affidavit (Early voting method introduced in General Election 2019)',
+  'T' = 'Early Voting by Other Method (Early voting method introduced in General Election 2019)'
+)
