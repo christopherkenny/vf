@@ -23,6 +23,7 @@ Imports:
     lubridate,
     purrr,
     readr,
+    stringr,
     tidyr
 URL: https://github.com/christopherkenny/vf,
     http://christophertkenny.com/vf/
