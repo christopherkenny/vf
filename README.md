@@ -20,11 +20,12 @@ devtools::install_github('christopherkenny/vf')
 
 ## Supported States
 
-| State | Contributors      | Last Updated | Input Function |
-|-------|-------------------|--------------|----------------|
-| FL    | @christopherkenny | 2022-08-24   | `vf_read_fl()` |
-| NY    | @christopherkenny | 2022-08-24   | `vf_read_ny()` |
-|       |                   |              |                |
+| State | Contributors      | Last Updated  | Input Function |
+|-------|-------------------|---------------|----------------|
+| FL    | @christopherkenny | 2022-08-24    | `vf_read_fl()` |
+| NY    | @christopherkenny | 2022-08-25    | `vf_read_ny()` |
+| NC    | @christopherkenny | 2022-11-21    | `vf_read_nc()` |
+| OH    | @christopherkenny | (in progress) | `vf_read_oh()` |
 
 ## Example
 
