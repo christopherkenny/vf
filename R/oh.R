@@ -25,7 +25,7 @@ vf_read_oh <- function(path_registration, ...) {
                      'i' = 'Please unzip the files, possibly with {.fn R.utils::gunzip}.'))
   }
 
-  purrr::map(path_registration, function(path) {
+  purrr::map_dfr(path_registration, function(path) {
     out <- readr::read_csv(
       path,
       col_types = readr::cols(
@@ -59,12 +59,12 @@ vf_read_oh <- function(path_registration, ...) {
         CAREER_CENTER                 = readr::col_character(),
         CITY                          = readr::col_character(),
         CITY_SCHOOL_DISTRICT          = readr::col_character(),
-        COUNTY_COURT_DISTRICT         = readr::col_logical(),
+        COUNTY_COURT_DISTRICT         = readr::col_character(),
         CONGRESSIONAL_DISTRICT        = readr::col_character(),
         COURT_OF_APPEALS              = readr::col_character(),
         EDU_SERVICE_CENTER_DISTRICT   = readr::col_character(),
         EXEMPTED_VILL_SCHOOL_DISTRICT = readr::col_character(),
-        LIBRARY                       = readr::col_logical(),
+        LIBRARY                       = readr::col_character(),
         LOCAL_SCHOOL_DISTRICT         = readr::col_character(),
         MUNICIPAL_COURT_DISTRICT      = readr::col_character(),
         PRECINCT_NAME                 = readr::col_character(),
