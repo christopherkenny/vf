@@ -1,8 +1,8 @@
 pandoc: 2.19.2
-pkgdown: 2.0.6
+pkgdown: 2.0.7
 pkgdown_sha: ~
 articles: {}
-last_built: 2022-11-29T15:21Z
+last_built: 2023-03-17T00:25Z
 urls:
   reference: http://christophertkenny.com/vf/reference
   article: http://christophertkenny.com/vf/articles
