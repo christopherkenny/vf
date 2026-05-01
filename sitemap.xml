@@ -1,36 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://christophertkenny.com/vf/404.html</loc>
-  </url>
-  <url>
-    <loc>http://christophertkenny.com/vf/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>http://christophertkenny.com/vf/LICENSE.html</loc>
-  </url>
-  <url>
-    <loc>http://christophertkenny.com/vf/authors.html</loc>
-  </url>
-  <url>
-    <loc>http://christophertkenny.com/vf/index.html</loc>
-  </url>
-  <url>
-    <loc>http://christophertkenny.com/vf/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>http://christophertkenny.com/vf/reference/vf_read_fl.html</loc>
-  </url>
-  <url>
-    <loc>http://christophertkenny.com/vf/reference/vf_read_nc.html</loc>
-  </url>
-  <url>
-    <loc>http://christophertkenny.com/vf/reference/vf_read_ny.html</loc>
-  </url>
-  <url>
-    <loc>http://christophertkenny.com/vf/reference/vf_read_oh.html</loc>
-  </url>
-  <url>
-    <loc>http://christophertkenny.com/vf/reference/vf_read_ok.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>http://christophertkenny.com/vf/404.html</loc></url>
+<url><loc>http://christophertkenny.com/vf/LICENSE-text.html</loc></url>
+<url><loc>http://christophertkenny.com/vf/LICENSE.html</loc></url>
+<url><loc>http://christophertkenny.com/vf/authors.html</loc></url>
+<url><loc>http://christophertkenny.com/vf/index.html</loc></url>
+<url><loc>http://christophertkenny.com/vf/reference/index.html</loc></url>
+<url><loc>http://christophertkenny.com/vf/reference/vf_read_fl.html</loc></url>
+<url><loc>http://christophertkenny.com/vf/reference/vf_read_nc.html</loc></url>
+<url><loc>http://christophertkenny.com/vf/reference/vf_read_ny.html</loc></url>
+<url><loc>http://christophertkenny.com/vf/reference/vf_read_oh.html</loc></url>
+<url><loc>http://christophertkenny.com/vf/reference/vf_read_ok.html</loc></url>
 </urlset>
+
